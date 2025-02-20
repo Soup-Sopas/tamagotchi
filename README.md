@@ -1,0 +1,2 @@
+# tamagotchi
+Programa en java
