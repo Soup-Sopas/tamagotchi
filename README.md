@@ -1,2 +1,3 @@
 # tamagotchi
-Programa en java
+
+Programa en java del juego Tamagotchi
