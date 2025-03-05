@@ -55,7 +55,7 @@ Cada vez que realices acciones como jugar, dormir o comer, se modificarán estos
 
 ---
 
-## :wrench Uso Básico
+## :wrench: Uso Básico
 
 1. **Elige el nombre** para tu Tamagochi.  
 2. **Observa el menú de opciones** según el lugar en el que te encuentres (Sala, Dormitorio, Cocina, Patio o Piscina).  
