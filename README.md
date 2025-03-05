@@ -1,26 +1,30 @@
-# Proyecto Tamagochi en Java
+# :star2: Proyecto Tamagochi en Java :star2:
 
 Este proyecto consiste en una versión sencilla de un Tamagochi virtual, desarrollado en Java. El programa permite interactuar con tu Tamagochi: alimentarlo, hacerlo jugar, dejarlo dormir y moverse por diferentes lugares.
 
-## Descripción General
+---
+
+## :bulb: Descripción General
 
 Al ejecutar la aplicación, se te pedirá que asignes un nombre a tu Tamagochi. A partir de ahí, podrás realizar distintas acciones según el lugar en el que te encuentres:
 
-- **Sala**: Jugar, ir a la cocina, ir al dormitorio, ir al patio o salir del juego.  
-- **Dormitorio**: Dormir, ir a la sala o salir del juego.  
-- **Cocina**: Dar de comer, ir a la sala o salir.  
-- **Patio**: Jugar, entrar a la casa, ir a la piscina o salir.  
+- **Sala**: Jugar, ir a la cocina, ir al dormitorio, ir al patio o salir del juego.
+- **Dormitorio**: Dormir, ir a la sala o salir del juego.
+- **Cocina**: Dar de comer, ir a la sala o salir.
+- **Patio**: Jugar, entrar a la casa, ir a la piscina o salir.
 - **Piscina**: Jugar, salir de la piscina o salir del juego.
 
 El estado de tu Tamagochi se rige por tres factores principales:
 
-- **Energía (energy)**  
-- **Hambre (hunger)**  
-- **Felicidad (happiness)**  
+- **Energía (energy)**
+- **Hambre (hunger)**
+- **Felicidad (happiness)**
 
 Cada vez que realices acciones como jugar, dormir o comer, se modificarán estos valores. Además, cada cierto número de turnos, el estado del Tamagochi disminuirá para simular el paso del tiempo.
 
-## Archivos Principales
+---
+
+## :file_folder: Archivos Principales
 
 ### 1. Main.java
 - Contiene el método principal (`main`), punto de entrada del programa.
@@ -49,7 +53,9 @@ Cada vez que realices acciones como jugar, dormir o comer, se modificarán estos
 - Permite moverse de un lugar a otro usando la posición (coordenadas en la matriz).
 - Muestra el menú de opciones según el lugar actual.
 
-## Uso Básico
+---
+
+## :wrench Uso Básico
 
 1. **Elige el nombre** para tu Tamagochi.  
 2. **Observa el menú de opciones** según el lugar en el que te encuentres (Sala, Dormitorio, Cocina, Patio o Piscina).  
