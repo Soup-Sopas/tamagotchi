@@ -1,5 +1,7 @@
 # :star2: Proyecto Tamagochi en Java :star2:
 
+![Texto alternativo](oso.webp)
+
 ### Por: Aquiles Rivero, Alberto Celada, Javier Carralero, Manuel García, Diego Pulido.
 
 Este proyecto consiste en una versión sencilla de un Tamagochi virtual, desarrollado en Java. El programa permite interactuar con tu Tamagochi: alimentarlo, hacerlo jugar, dejarlo dormir y moverse por diferentes lugares.
